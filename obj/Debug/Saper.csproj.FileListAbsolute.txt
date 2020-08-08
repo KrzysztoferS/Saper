@@ -1,0 +1,14 @@
+F:\C#\Cwiczenia\Turbo Gra\saper\Saper\Saper\bin\Debug\Saper.exe.config
+F:\C#\Cwiczenia\Turbo Gra\saper\Saper\Saper\bin\Debug\Saper.exe
+F:\C#\Cwiczenia\Turbo Gra\saper\Saper\Saper\bin\Debug\Saper.pdb
+F:\C#\Cwiczenia\Turbo Gra\saper\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+F:\C#\Cwiczenia\Turbo Gra\saper\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+F:\C#\Cwiczenia\Turbo Gra\saper\Saper\Saper\obj\Debug\Saper.exe
+F:\C#\Cwiczenia\Turbo Gra\saper\Saper\Saper\obj\Debug\Saper.pdb
+C:\C#\Saper\bin\Debug\Saper.exe.config
+C:\C#\Saper\bin\Debug\Saper.exe
+C:\C#\Saper\bin\Debug\Saper.pdb
+C:\C#\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\C#\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\C#\Saper\obj\Debug\Saper.exe
+C:\C#\Saper\obj\Debug\Saper.pdb
